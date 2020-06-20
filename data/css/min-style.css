@@ -1,0 +1,205 @@
+/*CSS ONLY FOR DESKTOP*/
+body
+{
+  /* background-image: url("data/background.jpeg"); */
+  background-color:#1abc9c;
+  color:white;
+  font-weight:bold;
+}
+.ID
+{
+  display:flex;
+  margin:5%;
+  justify-content: center;
+  background-color: rgba(255,255,255,0.22);
+  border-radius: 3%;
+  font-size:90%;
+}
+.Id1,.Id2
+{
+    border:2px solid #2c3e50;
+    box-shadow: -7px -7px 3px 3px rgba(237,237,237,0.4);
+    background:rgba(237,237,237,0.6);
+    width:25%;
+    height:100%;
+    margin:4%;
+    border-radius:5%;
+}
+
+#Id11,#Id12,#Id21,#Id22
+{
+  position:relative;
+  margin-left:8%;
+}
+#Image
+{
+  border: 2px solid rgba(0,0,0,0.4);
+  box-shadow: 2px;
+  margin-left:20%;
+  margin-right:20%;
+  margin-top:5%;
+  border-radius: 10%;
+  opacity:0.5;
+}
+hr
+{
+    margin-left:-8%;
+}
+span
+{
+  color:#1abc9c;
+  font-style: italic;
+}
+#Id12 a,#Id22 a
+{
+  color:rgba(255,255,255,0.3);
+  padding:3%;
+  
+}
+#profile 
+{
+  background-color:#1abc9c;
+  margin:3%;
+  margin-left:20%;
+  width:50%;
+  padding: 1.5%;
+  border-radius:5%;
+  text-align: center;
+}
+#profile:hover
+{
+  color:#1abc9c;
+  background-color: rgba(255,255,255,0.7);
+}
+#icon:hover
+{
+  background-color:rgba(255,255,255,1);
+  border-radius: 20px;
+}
+#icon
+{
+  position: relative;
+  border-radius: 2.5px;
+  width:12%;
+  height:12%;
+  display:inline;
+}
+@media  screen  and (max-width:224px) {
+  body
+  {
+    font-style:oblique;
+    font-size:70%;
+  }
+  .ID
+  {
+    display:inline;
+  }
+  #Id11,#Id21
+  {
+    margin:2%;
+    width:30%;
+    word-wrap: break-word;
+  }
+  .Id1,.Id2
+  {
+    width:90%;
+  }
+}
+@media  screen  and (min-width:225px) and (max-width:304px){
+  body
+  {
+    font-style:oblique;
+  }
+  .ID
+  {
+    display:inline;
+  }
+  #Id11,#Id21
+  {
+    margin:2%;
+    width:30%;
+  }
+  .Id1,.Id2
+  {
+    width:90%;
+  }
+}
+@media  screen and (min-width:305px) and (max-width:530px){
+  body,#profile
+  {
+    font-style:oblique;
+    background-color:#55efc4;
+  }
+  span
+  {
+    color:#55efc4;
+  }
+
+  .ID
+  {
+    display:inline;
+  }
+  #Id11,#Id21
+  {
+    margin:2%;
+    width:40%;
+  }
+  .Id1,.Id2
+  {
+    width:70%;
+  }
+
+}
+@media  screen and (min-width:531px) and (max-width:800px){
+  body,#profile
+  {
+    font-style:oblique;
+    background-color:#079992;
+  }
+  span
+  {
+    color:#079992;
+  }
+  .ID
+  {
+    justify-content: space-around;
+  }
+  #Id11,#Id21
+  {
+    margin:2%;
+  }
+  .Id1,.Id2
+  {
+    width:80%;
+  }
+}
+@media  screen and (min-width:801px) and (max-width:950px){
+  body
+  {
+    font-style:oblique;
+  }
+  .ID
+  {
+    justify-content: center;
+  }
+  #Id11,#Id21
+  {
+    margin:2%;
+    width:40%;
+  }
+  .Id1,.Id2
+  {
+    width:60%;
+  }
+}
+@media  screen and (min-width:951px) and (max-width:1368px){
+  body
+  {
+    font-style:oblique;
+  }
+  .ID
+  {
+    justify-content: center;
+  }
+}
+

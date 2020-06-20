@@ -1,0 +1,60 @@
+{
+    "profile1": {
+        "name": "D H S Ravikiran",
+        "Objective":"To find a place where I can find opportunity to utilize my skills without any prejudice",
+        "designation": "AI/ML/DL Trainee",
+        "fname": "S/o D Ramesh Kumar",
+        "email": "dhss.ravikiran@gmail.com",
+        "phone": "9440239699",
+        "education":{
+            "0": "SRKR Engg College,B.Tech(CSE),2018-present,9.06",
+            "1": "St Anns Jr College,Intermediate,2016-2018,98.4%",
+            "2": "St Anns EM School,SSC,2015-2016,93%"
+        },
+        "certifications": {
+            "MTA:Introduction to Programming Using HTML and CSS - Certified 2019": "https://www.youracclaim.com/badges/4ad16edf-4a77-4fb0-89e3-0c5ac8c75b92/linked_i",
+            "Machine Learning with Python": "https://www.coursera.org/account/accomplishments/certificate/N6X7QPG33S78",
+            "Neural Networks and Deep Learning": "https://www.coursera.org/account/accomplishments/certificate/5J3JUGDMDY4A"
+        },
+        "skills":"C,C++,Python,HTML/CSS/JS,React,Dart",
+        "language": "English,Telugu,Tamil",
+        "location": {
+            "Door_No": "10-24-14",
+            "City": "Tadepalligudem",
+            "state": "Andhra Pradesh",
+            "country": "India",
+            "Pincode": "534102"
+        }
+    },
+    "profile2": {
+        "name": "D Harsha Sai",
+        "Objective": "To find a place where I can find opportunity to utilize my skills without any prejudice",
+        "designation": "MERN Developer",
+        "fname": "s/o D Ramesh Kumar",
+        "email": "ravikiran.dhss@gmail.com",
+        "phone": "9505666134",
+        "education": {
+            "0": "SVEC Engg College,B.Tech(CSE),2016-2020,9.00",
+            "1": "Sasi Jr College,Intermediate,2014-2016,94.1%",
+            "2": "BVBRPS School,SSC,2013-2014,94%"
+        },
+        "certifications": {
+            "MTA:Introduction to Programming Using HTML and CSS - Certified 2019": "https://www.youracclaim.com/badges/4ad16edf-4a77-4fb0-89e3-0c5ac8c75b92/linked_i",
+            "Machine Learning with Python": "https://www.coursera.org/account/accomplishments/certificate/N6X7QPG33S78",
+            "Neural Networks and Deep Learning": "https://www.coursera.org/account/accomplishments/certificate/5J3JUGDMDY4A"
+        },
+        "skills": "C,C++,Python,HTML/CSS/JS,React",
+        "language": "English,Telugu,Tamil",
+        "location": {
+            "Sector": "13",
+            "Area":"SagarNagar,Rushikonda",
+            "City": "Visakhapatnam",
+            "state": "Andhra Pradesh",
+            "country": "India",
+            "Pincode": "530045"
+        }
+    }
+
+}
+
+        
